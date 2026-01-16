@@ -34,7 +34,7 @@ hparams = {
 }
 
 # K-fold Cross Validation
-skf = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
+skf = StratifiedKFold(n_splits=10, shuffle=False, random_state=42)
 fold_results = []
 
 for fold, (train_idx, val_idx) in enumerate(skf.split(features, labels)):
@@ -121,6 +121,7 @@ for fold, (train_idx, val_idx) in enumerate(skf.split(features, labels)):
 mean_acc = np.mean(fold_results)
 std_acc = np.std(fold_results)
 print(f"\nFinal Results: {mean_acc:.4f} ± {std_acc:.4f}")
+
 
 
 
