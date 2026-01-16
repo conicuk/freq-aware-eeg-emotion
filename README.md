@@ -123,19 +123,6 @@ The proposed model was evaluated on a dataset of 48 participants under three aud
 
 *Table: Overall classification performance (Accuracy reported as Mean ± SD).*
 
-## 📖 Citation
-
-If you find this code or paper useful for your research, please cite our work:
-
-```bibtex
-@article{kim2025frequency,
-  title={Frequency-Aware EEG-Based Emotion Recognition under Simulated Auditory Degradation},
-  author={Kim, Seoyeon and Lee, Jihyun and Lee, Young-Eun and Lee, Hyo-Jeong and Lee, Minji},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2025},
-  publisher={IEEE}
-}
-
 ```
 
 ## 👥 Authors & Contact
