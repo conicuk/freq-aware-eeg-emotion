@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation of the paper:
 
-**Frequency-Aware EEG-Based Emotion Recognition under Simulated Auditory Degradation**, published in *IEEE Journal of Biomedical and Health Informatics (JBHI)*.
+**EEG-Based Emotion Recognition under Frequency-Constrained Auditory Conditions**, currently under review.
 
 ## 📝 Abstract
 
