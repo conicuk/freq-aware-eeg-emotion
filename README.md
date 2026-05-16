@@ -1,4 +1,4 @@
-# Frequency-Aware EEG-Based Emotion Recognition under Simulated Auditory Degradation
+# Frequency-Aware EEG Decoding of Emotional Responses under Simulated Auditory Degradation.
 
 This repository contains the official PyTorch implementation of the paper:
 
